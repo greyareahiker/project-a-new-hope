@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/project-a-new-hope/static/css/main.d4a8e55e.css",
-    "main.js": "/project-a-new-hope/static/js/main.7796373c.js",
+    "main.css": "/project-a-new-hope/static/css/main.a2914cef.css",
+    "main.js": "/project-a-new-hope/static/js/main.a058abb8.js",
     "static/media/slick.svg": "/project-a-new-hope/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/project-a-new-hope/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/project-a-new-hope/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/project-a-new-hope/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/project-a-new-hope/index.html",
-    "main.d4a8e55e.css.map": "/project-a-new-hope/static/css/main.d4a8e55e.css.map",
-    "main.7796373c.js.map": "/project-a-new-hope/static/js/main.7796373c.js.map"
+    "main.a2914cef.css.map": "/project-a-new-hope/static/css/main.a2914cef.css.map",
+    "main.a058abb8.js.map": "/project-a-new-hope/static/js/main.a058abb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4a8e55e.css",
-    "static/js/main.7796373c.js"
+    "static/css/main.a2914cef.css",
+    "static/js/main.a058abb8.js"
   ]
 }
