@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/project-a-new-hope/static/css/main.a2914cef.css",
-    "main.js": "/project-a-new-hope/static/js/main.a058abb8.js",
-    "static/media/slick.svg": "/project-a-new-hope/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/project-a-new-hope/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/project-a-new-hope/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/project-a-new-hope/static/media/slick.295183786cd8a1389865.woff",
+    "main.js": "/project-a-new-hope/static/js/main.d6b28d61.js",
+    "static/media/background.png": "/project-a-new-hope/static/media/background.f9f12924d50e0276ace3.png",
+    "static/media/fox.png": "/project-a-new-hope/static/media/fox.b44fbf0cd41d792aa220.png",
+    "static/media/darkboa.png": "/project-a-new-hope/static/media/darkboa.dfd502cf8492cc1b666c.png",
+    "static/media/lightboa.png": "/project-a-new-hope/static/media/lightboa.5d1c2bdd59f17def11a9.png",
+    "static/media/b612.png": "/project-a-new-hope/static/media/b612.f2182bec9d17e5a1096f.png",
+    "static/media/prince.png": "/project-a-new-hope/static/media/prince.f9595c6779b39269995b.png",
     "index.html": "/project-a-new-hope/index.html",
-    "main.a2914cef.css.map": "/project-a-new-hope/static/css/main.a2914cef.css.map",
-    "main.a058abb8.js.map": "/project-a-new-hope/static/js/main.a058abb8.js.map"
+    "main.d6b28d61.js.map": "/project-a-new-hope/static/js/main.d6b28d61.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2914cef.css",
-    "static/js/main.a058abb8.js"
+    "static/js/main.d6b28d61.js"
   ]
 }
